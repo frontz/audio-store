@@ -1,0 +1,7 @@
+// $enable-flex: true; // Enable Flexbox mode
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+.indigo {
+  background-color: $blue-500;
+  color: white;
+}
