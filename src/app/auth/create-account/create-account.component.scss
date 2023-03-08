@@ -1,0 +1,23 @@
+@import "../../../../node_modules/bootstrap/scss/bootstrap";
+
+
+.indigo {
+  background-color: $indigo-600;
+}
+
+input[type=text] {
+  background-color:  $indigo-600;
+  color: aliceblue;
+}
+input[type=email] {
+  background-color:  $indigo-600;
+  color: aliceblue;
+}
+input[type=password] {
+  background-color:  $indigo-600;
+  color: aliceblue;
+}
+
+.pink {
+  background-color: $pink-500;
+}
